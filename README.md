@@ -26,5 +26,3 @@ Easily convert any text or URL into a QR code instantly!
 - QRServer API
 
 ---
-
-## 📂 Project Structure
